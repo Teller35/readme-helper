@@ -12,6 +12,39 @@ function renderLicenseLink(license) {}
 function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
+const generateInstall = installText => {
+  if (!installText) {
+    return '### NONE';
+  }
+  return `
+  ### ${installText}
+  `
+}
+const generateCredit = creditText => {
+  if (!creditText) {
+    return '### NONE';
+  }
+  return `
+  ### ${creditText}
+  `
+}
+const generateCont = contText => {
+  if (!contText) {
+    return '### NONE';
+  }
+  return `
+  ### ${contText}
+  `
+}
+const generateTest = testText => {
+  if (!testText) {
+    return '### NONE';
+  }
+  return `
+  ### ${testText}
+  `
+}
+
 function generateMarkdown(data) {
   return `# ${data.title}
 
@@ -20,31 +53,31 @@ function generateMarkdown(data) {
   <a href='https://github.com/${data.link}' target='_blank'></i>View Project on GitHub</a>
 
   ## Table of Contents:
-  * (#installation)**Installation**
-  * (#usage)**Usage**
-  * (#credits)**Credits**
-  * (#license)**License**
-  * (#contribute)**Contribute**
-  * (#test)**Test**
-  * (#questions)**Questions**
+  * [**Installation**](#installation)
+  * [**Usage**](#usage)
+  * [**Credits**](#credits)
+  * [**License**](#license)
+  * [**Contribute**](#contribute)
+  * [**Test**](#test)
+  * [**Questions**](#questions)
 
   ## Installation
-  ### ${data.installation}
+  ${generateInstall(data.installation)}
 
   ## Usage
   ### ${data.usage}
 
   ## Credits
-  ### ${data.credits}
+  ${generateCredit(data.credits)}
 
   ## License
   ### ${data.license}
 
   ## Contribute
-  ### ${data.contribute}
+  ${generateCont(data.contribute)}
 
   ## Test
-  ### ${data.test}
+  ${generateTest(data.test)}
 
   ## Questions
   * ### If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>My Email</a>
