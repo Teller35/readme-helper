@@ -14,34 +14,34 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 const generateInstall = installText => {
   if (!installText) {
-    return '### NONE';
+    return '#### *NONE*';
   }
   return `
-  ### ${installText}
+  #### *${installText}*
   `
 }
 const generateCredit = creditText => {
   if (!creditText) {
-    return '### NONE';
+    return '#### *NONE*';
   }
   return `
-  ### ${creditText}
+  #### *${creditText}*
   `
 }
 const generateCont = contText => {
   if (!contText) {
-    return '### NONE';
+    return '#### *NONE*';
   }
   return `
-  ### ${contText}
+  #### *${contText}*
   `
 }
 const generateTest = testText => {
   if (!testText) {
-    return '### NONE';
+    return '#### *NONE*';
   }
   return `
-  ### ${testText}
+  #### *${testText}*
   `
 }
 
@@ -49,8 +49,8 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Description:
-  ${data.description}
-  <a href='https://github.com/${data.link}' target='_blank'></i>View Project on GitHub</a>
+  #### *${data.description}*
+  *[View Project on GitHub](https://github.com/${data.link})*
 
   ## Table of Contents:
   * [**Installation**](#installation)
@@ -65,13 +65,13 @@ function generateMarkdown(data) {
   ${generateInstall(data.installation)}
 
   ## Usage
-  ### ${data.usage}
+  #### *${data.usage}*
 
   ## Credits
   ${generateCredit(data.credits)}
 
   ## License
-  ### ${data.license}
+  #### *${data.license}*
 
   ## Contribute
   ${generateCont(data.contribute)}
@@ -80,9 +80,9 @@ function generateMarkdown(data) {
   ${generateTest(data.test)}
 
   ## Questions
-  * ### If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>My Email</a>
-  * ### You can also find more of my work at my GitHub page: <a href='https://github.com/${data.github}' target='_blank'></i>My GitHub</a>
-  * ### Built with ❤️ by ${data.name}
+  * #### *If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>My Email</a>*
+  * #### *You can also find more of my work at my GitHub page: [My GitHub](https://github.com/${data.github})*
+  * #### *Built with ❤️ by ${data.name}*
 `;
 }
 
