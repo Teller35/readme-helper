@@ -16,48 +16,48 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
   --------------------------------------------------------------------------------------------------------
-  Description:
+  ## Description:
   --------------------------------------------------------------------------------------------------------
   ${data.description}
   <a href='https://github.com/${data.link}' target='_blank'></i>View Project on GitHub</a>
   --------------------------------------------------------------------------------------------------------
-  Table of Contents:
+  ## Table of Contents:
   --------------------------------------------------------------------------------------------------------
-  <a href='#installation'>* Installation</a>
-  <a href='#usage'>* Usage</a>
-  <a href='#credits'>* Credits</a>
-  <a href='#license'>* License</a>
-  <a href='#contribute'>* Contribute</a>
-  <a href='#test'>* Test</a>
-  <a href='#questions'>* Questions</a>
+  <a href='#installation'>** Installation</a>
+  <a href='#usage'>** Usage</a>
+  <a href='#credits'>** Credits</a>
+  <a href='#license'>** License</a>
+  <a href='#contribute'>** Contribute</a>
+  <a href='#test'>** Test</a>
+  <a href='#questions'>** Questions</a>
   --------------------------------------------------------------------------------------------------------
-  <id='installation>Installation
+  ## Installation
   --------------------------------------------------------------------------------------------------------
-  ${data.installation}
+  ### ${data.installation}
   --------------------------------------------------------------------------------------------------------
-  <id='usage'>Usage
+  ## Usage
   --------------------------------------------------------------------------------------------------------
-  ${data.usage}
+  ### ${data.usage}
   --------------------------------------------------------------------------------------------------------
-  <id='credits'>Credits
+  ## Credits
   --------------------------------------------------------------------------------------------------------
-  ${data.credits}
+  ### ${data.credits}
   --------------------------------------------------------------------------------------------------------
-  <id='license'>License
+  ## License
   --------------------------------------------------------------------------------------------------------
-  ${data.license}
+  ### ${data.license}
   --------------------------------------------------------------------------------------------------------
-  <id='contribute>Contribute
+  ## Contribute
   --------------------------------------------------------------------------------------------------------
-  ${data.contribute}
+  ### ${data.contribute}
   --------------------------------------------------------------------------------------------------------
-  <id='test'>Test
+  ## Test
   --------------------------------------------------------------------------------------------------------
-  ${data.test}
+  ### ${data.test}
   --------------------------------------------------------------------------------------------------------
-  <id='questions>Questions
+  ## Questions
   --------------------------------------------------------------------------------------------------------
-  If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>Email</a>
+  ### If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>Email</a>
   You can also find more of my work at my GitHub page: <a href='https://github.com/${data.github}' target='_blank'></i>GitHub</a>
   Built with ❤️ by ${data.name}
 `;
