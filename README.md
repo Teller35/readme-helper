@@ -2,7 +2,7 @@
 
   ## Description:
   An app to generate a readme based on the users input though the termial. This readme was generated from this app itself.
-  [View Project on GitHub](https://github.com/teller35/readme-helper){:target='_blank'}
+  [View Project on GitHub](https://github.com/teller35/readme-helper){:target='_blank rel="noopener'}
 
   ## Table of Contents:
   * [**Installation**](#installation)
