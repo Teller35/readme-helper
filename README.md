@@ -32,6 +32,6 @@
   ### ${data.test}
 
   ## Questions
-  * ### If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>Email</a>
-  * ### You can also find more of my work at my GitHub page: <a href='https://github.com/${data.github}' target='_blank'></i>GitHub</a>
+  * ### If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>My Email</a>
+  * ### You can also find more of my work at my GitHub page: <a href='https://github.com/${data.github}' target='_blank'></i>My GitHub</a>
   * ### Built with ❤️ by ${data.name}
