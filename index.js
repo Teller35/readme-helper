@@ -29,10 +29,10 @@ const questions = (data) =>  {
     },
     {
         type: "input",
-        name: "githublink",
+        name: "github",
         message: "Enter your GitHub user name. (Required)",
-        validate: githublinkInput => {
-          if (githublinkInput) {
+        validate: githubInput => {
+          if (githubInput) {
             return true;
           }
           else {
