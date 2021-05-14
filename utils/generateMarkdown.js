@@ -62,6 +62,7 @@ const generateTest = testText => {
 
 function generateMarkdown(data) {
   return `# ${data.title}
+
   ${renderLicenseBadge(data.license)}
 
   ## Description:
@@ -88,6 +89,7 @@ function generateMarkdown(data) {
 
   ## License
   #### *${renderLicenseSection(data.license)}*
+  #### *${renderLicenseLink(data.license)}*
 
   ## Contribute
   ${generateCont(data.contribute)}
