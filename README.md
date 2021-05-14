@@ -1,37 +1,38 @@
-  # ${data.title}
+
+  # Readme Helper
 
   ## Description:
-  ${data.description}
-  <a href='https://github.com/${data.link}' target='_blank'></i>View Project on GitHub</a>
+  An app to take the users input and generate a readme based off those answers
+  <a href='https://github.com/teller35/readme-helper' target='_blank'></i>View Project on GitHub</a>
 
   ## Table of Contents:
-  * <a href='#installation'>**Installation**</a>
-  * <a href='#usage'>**Usage**</a>
-  * <a href='#credits'>**Credits**</a>
-  * <a href='#license'>**License**</a>
-  * <a href='#contribute'>**Contribute**</a>
-  * <a href='#test'>**Test**</a>
-  * <a href='#questions'>**Questions**</a>
+  * (#installation)**Installation**
+  * (#usage)**Usage**
+  * (#credits)**Credits**
+  * (#license)**License**
+  * (#contribute)**Contribute**
+  * (#test)**Test**
+  * (#questions)**Questions**
 
   ## Installation
-  ### ${data.installation}
+  ### undefined
 
   ## Usage
-  ### ${data.usage}
+  ### Answer the questions as they populate in your terminal
 
   ## Credits
-  ### ${data.credits}
+  ### undefined
 
   ## License
-  ### ${data.license}
+  ### MIT
 
   ## Contribute
-  ### ${data.contribute}
+  ### undefined
 
   ## Test
-  ### ${data.test}
+  ### undefined
 
   ## Questions
-  * ### If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>My Email</a>
-  * ### You can also find more of my work at my GitHub page: <a href='https://github.com/${data.github}' target='_blank'></i>My GitHub</a>
-  * ### Built with ❤️ by ${data.name}
+  * ### If you have any questions please feel free to reach out to me at: <a href='mailto:tellerwetzel@yahoo.com'></i>My Email</a>
+  * ### You can also find more of my work at my GitHub page: <a href='https://github.com/teller35' target='_blank'></i>My GitHub</a>
+  * ### Built with ❤️ by Teller Wetzel
