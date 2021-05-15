@@ -26,7 +26,7 @@
 
   ## License
   #### *This project is covered under the MIT license!*
-  #### *[![License Link](https://choosealicense.com/licenses/-MIT)](#license)*
+  #### *[[License Link](https://choosealicense.com/licenses/-MIT)](#license)*
 
   ## Contribute
   #### *NONE*
