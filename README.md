@@ -1,9 +1,9 @@
 # Readme Helper
 
-  [![License Badge](https://img.shields.io/badge/license-isc-blue.svg)](#license)
+  [![License Badge](https://img.shields.io/badge/license-mit-blue.svg)](#license)
 
   ## Description:
-  #### *An app to take a users input and generate a readme based off that input.*
+  #### *An app to generate a readme.*
   *[View Project on GitHub](https://github.com/teller35/readme-helper)*
 
   ## Table of Contents:
@@ -16,31 +16,23 @@
   * [**Questions**](#questions)
 
   ## Installation
-  
-  #### *Clone repo to computer and then open app in terminal and run from root folder.*
-  
+  #### *NONE*
 
   ## Usage
-  #### *You use this in the terminal by typing 'node index.js' answer the questions and enjoy the output.*
+  #### *Use in the termianl typing 'node index.js'*
 
   ## Credits
-  
-  #### *Me, Myself, and I*
-  
+  #### *NONE*
 
   ## License
-  #### *This project is covered under the isc license!*
-  #### *[License Link](https://choosealicense.com/licenses/isc)*
+  #### *This project is covered under the mit license!*
+  #### *[License Link](https://choosealicense.com/licenses/mit)*
 
   ## Contribute
-  
-  #### *Contrubite and push up to GitHub for approval.*
-  
+  #### *NONE*
 
   ## Test
-  
-  #### *The is the test.*
-  
+  #### *NONE*
 
   ## Questions
   * #### *If you have any questions please feel free to reach out to me at: <a href='mailto:tellerwetzel@yahoo.com'></i>My Email</a>*
