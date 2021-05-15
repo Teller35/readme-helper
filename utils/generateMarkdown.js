@@ -14,7 +14,7 @@ function renderLicenseLink(license) {
   if (!license) {
     return `There is no license to link!`
   }
-  return `[License Link](https://choosealicense.com/licenses/-${license})`
+  return `[License Link](https://choosealicense.com/licenses/${license})`
 }
 
 // TODO: Create a function that returns the license section of README

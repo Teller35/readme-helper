@@ -1,10 +1,10 @@
 # Readme Helper
 
-  [![License Badge](https://img.shields.io/badge/license-ISC-blue.svg)](#license)
+  [![License Badge](https://img.shields.io/badge/license-isc-blue.svg)](#license)
 
   ## Description:
   #### *readme generator*
-  *[View Project on GitHub](https://github.com/teller35/readme-helper)*
+  *[View Project on GitHub](https://github.com/teller35/readm-helper)*
 
   ## Table of Contents:
   * [**Installation**](#installation)
@@ -29,12 +29,12 @@
   
 
   ## License
-  #### *This project is covered under the ISC license!*
-  #### *[License Link](https://choosealicense.com/licenses/-ISC)*
+  #### *This project is covered under the isc license!*
+  #### *[License Link](https://choosealicense.com/licenses/isc)*
 
   ## Contribute
   
-  #### *contrubite away*
+  #### *contrubite*
   
 
   ## Test

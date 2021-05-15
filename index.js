@@ -94,7 +94,7 @@ const questions = () =>  {
         type: "checkbox",
         name: "license",
         message: "Please provide a license! (Required)",
-        choices: ["MIT", "ISC", "Apache", "GNU GPLv3", "GNU GPLv2"],
+        choices: ["mit", "isc", "apache-2.0"],
     },
     {
         type: "input",
