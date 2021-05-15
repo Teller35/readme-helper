@@ -22,6 +22,17 @@
 
   ## Usage
   #### *Run in the root folder for the app in the terminal by typing 'node index.js' answer the questions and enjoy the output.*
+  #### *Index.js screenshots*
+  ![image](https://user-images.githubusercontent.com/79383305/118369393-615e7400-b560-11eb-849e-ca872718a6cc.png)
+  ![image](https://user-images.githubusercontent.com/79383305/118369403-6ae7dc00-b560-11eb-9c6e-338154f4593b.png)
+  ![image](https://user-images.githubusercontent.com/79383305/118369411-76d39e00-b560-11eb-9796-e2ea2ac1d692.png)
+  ![image](https://user-images.githubusercontent.com/79383305/118369415-7fc46f80-b560-11eb-8940-60fc49a32e41.png)
+  ![image](https://user-images.githubusercontent.com/79383305/118369420-8652e700-b560-11eb-9861-a79cf852655d.png)
+  ![image](https://user-images.githubusercontent.com/79383305/118369429-8fdc4f00-b560-11eb-9b8c-38d085a002c8.png)
+  #### *GenerateMarkdown.js screenshots*
+  ![image](https://user-images.githubusercontent.com/79383305/118369506-de89e900-b560-11eb-95ea-b297bc2f113e.png)
+  ![image](https://user-images.githubusercontent.com/79383305/118369511-e6498d80-b560-11eb-962c-951895758bb1.png)
+  ![image](https://user-images.githubusercontent.com/79383305/118369522-ecd80500-b560-11eb-9f62-ebee01658aeb.png)
 
   ## Credits
   
