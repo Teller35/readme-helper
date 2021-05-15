@@ -3,7 +3,7 @@
   [![License Badge](https://img.shields.io/badge/license-isc-blue.svg)](#license)
 
   ## Description:
-  #### *An app to generate a readme based off the users response*
+  #### *An app to take a users input and generate a readme based off that input.*
   *[View Project on GitHub](https://github.com/teller35/readme-helper)*
 
   ## Table of Contents:
@@ -16,23 +16,31 @@
   * [**Questions**](#questions)
 
   ## Installation
-  #### *NONE*
+  
+  #### *Clone repo to computer and then open app in terminal and run from root folder.*
+  
 
   ## Usage
-  #### *Need to run in terminal typing 'node index.js'*
+  #### *You use this in the terminal by typing 'node index.js' answer the questions and enjoy the output.*
 
   ## Credits
-  #### *NONE*
+  
+  #### *Me, Myself, and I*
+  
 
   ## License
   #### *This project is covered under the isc license!*
   #### *[License Link](https://choosealicense.com/licenses/isc)*
 
   ## Contribute
-  #### *NONE*
+  
+  #### *Contrubite and push up to GitHub for approval.*
+  
 
   ## Test
-  #### *NONE*
+  
+  #### *The is the test.*
+  
 
   ## Questions
   * #### *If you have any questions please feel free to reach out to me at: <a href='mailto:tellerwetzel@yahoo.com'></i>My Email</a>*
