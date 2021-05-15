@@ -1,10 +1,10 @@
-# Readme Helper
+# flkjasdjl;f
 
-  
+  [![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 
   ## Description:
-  #### *An app that takes a users input and generates a readme based off that input. Made this readme with it myself.*
-  *[View Project on GitHub](https://github.com/teller35/readme-helper)*
+  #### *fjklsda;jl*
+  *[View Project on GitHub](https://github.com/lskadfjkl;ds)*
 
   ## Table of Contents:
   * [**Installation**](#installation)
@@ -16,33 +16,25 @@
   * [**Questions**](#questions)
 
   ## Installation
-  
-  #### *Clone repo from GitHub use link provided from above.*
-  
+  #### *NONE*
 
   ## Usage
-  #### *This is run in the terminal with being at the root file and typing 'node index.js' anwser the questons and enjoy the output.*
+  #### *jklfdasjl;*
 
   ## Credits
-  
-  #### *Me, Myself, and I*
-  
+  #### *NONE*
 
   ## License
-  #### *This project does not have any license!*
-  #### *There is no license to link!*
+  #### *This project is covered under the MIT license!*
+  #### *[![License Link](https://choosealicense.com/licenses/-MIT)](#license)*
 
   ## Contribute
-  
-  #### *This is open for contribution just make edits and push up to GitHub.*
-  
+  #### *NONE*
 
   ## Test
-  
-  #### *This right here is the test.*
-  
+  #### *NONE*
 
   ## Questions
-  * #### *If you have any questions please feel free to reach out to me at: <a href='mailto:tellerwetzel@yahoo.com'></i>My Email</a>*
-  * #### *You can also find more of my work at my GitHub page: [My GitHub](https://github.com/teller35)*
-  * #### *Built with ❤️ by Teller Wetzel*
+  * #### *If you have any questions please feel free to reach out to me at: <a href='mailto:jklasdfjlk;f;l'></i>My Email</a>*
+  * #### *You can also find more of my work at my GitHub page: [My GitHub](https://github.com/klsdafjf;dfjkla)*
+  * #### *Built with ❤️ by jkldsaljkf*
