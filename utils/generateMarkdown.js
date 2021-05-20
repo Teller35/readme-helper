@@ -67,7 +67,7 @@ function generateMarkdown(data) {
 
   ## Description:
   #### *${data.description}*
-  *[View Project on GitHub](https://github.com/${data.link})*
+  *[View Project on GitHub](https://github.com/${data.github}/${data.link})*
 
   ## Table of Contents:
   * [**Installation**](#installation)
