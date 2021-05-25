@@ -77,6 +77,7 @@ function generateMarkdown(data) {
   * [**Contribute**](#contribute)
   * [**Test**](#test)
   * [**Questions**](#questions)
+  * [**Screenshots**](#screenshots)
 
   ## Installation
   ${generateInstall(data.installation)}
@@ -101,6 +102,8 @@ function generateMarkdown(data) {
   * #### *If you have any questions please feel free to reach out to me at: <a href='mailto:${data.questions}'></i>My Email</a>*
   * #### *You can also find more of my work at my GitHub page: [My GitHub](https://github.com/${data.github})*
   * #### *Built with ❤️ by ${data.name}*
+
+  ## Screenshots 
 `;
 }
 
