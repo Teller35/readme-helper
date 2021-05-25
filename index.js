@@ -199,7 +199,7 @@ function writeToFile(fileName, data) {
 function init() {
     questions()
     .then(readme => {
-        writeToFile('./db/README.md', generatePage(readme))
+        writeToFile('./use/README.md', generatePage(readme))
 
         console.log('Readme is ready for review! Check out README.md to see the output!');
     })
